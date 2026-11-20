@@ -1,0 +1,9 @@
+date,building,drill_type,evac_seconds,headcount,issues
+2025-09-10,Building A,fire,372,148,Stairwell B door stuck
+2026-03-12,Building A,fire,331,152,
+2026-09-15,Building A,fire,287,160,
+2025-10-02,Building B,fire,255,64,
+2026-04-08,Building B,fire,262,70,Visitor sign-in list not brought
+2025-06-20,Building C,shelter,410,92,PA speaker silent on floor 2
+2026-05-18,Annex,fire,198,31,
+2026-10-21,Annex,fire,205,33,
