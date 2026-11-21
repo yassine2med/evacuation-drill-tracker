@@ -2,6 +2,8 @@
 
 # evacuation-drill-tracker
 
+[![CI](https://github.com/yassine2med/evacuation-drill-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/evacuation-drill-tracker/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A drill log with timing statistics per building and an alert for buildings that are overdue for a drill.
 
 ![Screenshot](docs/screenshot.png)
