@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="evacuation-drill-tracker" width="100%"></p>
+
 # evacuation-drill-tracker
 
 A drill log with timing statistics per building and an alert for buildings that are overdue for a drill.
